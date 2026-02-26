@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maria</title>
+</head>
+
+<body>
+    <header>
+        <h1>Maria</h1>
+
+        <nav><!--Seção de navegação do site-->
+            <ul><!-- Lista não ordenada para links do nosso menu-->
+                <li><a href="#Sobre">Sobre mim</a></li>
+                <li><a href="#Projetos">Projetos</a></li>
+                <li><a href="#contato">Contato</a></li>
+                <li><a href="https://google.com.br/" target="_blank">Google</a></li>
+                <!-- <li>Sobre mim</li> -->
+            </ul>
+        </nav>
+    </header>
+
+    <section id="Sobre">
+        <h2>Sobre mim</h2>
+
+        <img src="C:\Users\Maria\Downloads\FullSizeRender(427).jpg" width="300" height="200" alt="ops">
+
+        <article>
+
+            <p>oiieee, olha eu e o meu amorrr</p>
+
+        </article>
+
+        <img src="https://publish.purewow.net/wp-content/uploads/sites/2/2024/10/taylor-swift-hub.jpg?fit=2050%2C1100" width="300" height="200" alt="Sem Taylor" title="Taylor Swift">
+
+        <article>
+
+            <p>Hii Taylor</p>
+
+        </article>
+        <aside>
+            <h3>Habilidades</h3>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JAVASCRIPT</li>
+
+            </ul>
+        </aside>
+
+        <section id="Projetos">
+
+            <h2>Projetos</h2>
+
+            <article>
+                <h3>Portifólio</h3>
+
+                <p>
+                    Este foi o primeiro site que desenvolvi estudando Front-End
+                </p>
+
+            </article>
+
+
+        </section>
+
+    </section>
+
+    <footer>
+
+
+        <p>Direitos reservado a Maria</p>
+
+        <section id="Contato">
+
+            <h2>Contato</h2>
+
+            <p>Tem um projeto em mente? Entre em contato</p>
+
+            <address>
+                E-mail: <a href="mailto:mariaizabeldelima0@gmail.com">mariaizabeldelima0@gmail.com</a> <br>
+                Telefone: <a href="tel:+55 (49) 99942-1108">+55 (49) 99942-1108</a>
+
+            </address>
+
+        </section>
+
+    </footer>
+
+</body>
+
+</html>
